@@ -1,0 +1,42 @@
+Problem 4a:
+- Number of factor variables: 6
+
+Problem 4b:
+- Random Forest Test Error: ~21.6%
+
+Problem 4c:
+- 5-NN Test Error: ~24.1%
+- 201-NN Test Error: ~25.6%
+
+Problem 4di:
+- Big Tree Test Error: ~22.7%
+
+Problem 4dii:
+- Best cp Value: 0.0013
+
+Problem 4e:
+- RMSE for Monthly Balance: [1] 26687.8
+- Most Important Predictor: Looks like Interest_Rate is the most important predictor for this model since it has the lowest absolute value.
+
+Problem 4fi/4fii:
+- Payment Behavior good credit percentages:
+ High_spent_Large_value_payments High_spent_Medium_value_payments  High_spent_Small_value_payments 
+                           10426                            13310                             8595                           
+   Low_spent_Large_value_payments Low_spent_Medium_value_payments   Low_spent_Small_value_payments 
+                           7848                             10467                            19406
+
+CATEGORY OF PAYMENT BEHAVIOR        PERCENT GOOD CREDIT RATING
+High_spent_Large_value_payments     [1] 0.2283714
+High_spent_Medium_value_payments    [1] 0.2006762
+High_spent_Small_value_payments     [1] 0.1869692
+
+
+
+
+Problem 4g:
+- Cluster Good Credit Percentages: around 40%-50% across clusters
+CLUSTER #         PERCENT OF PEOPLE WITH “GOOD” CREDIT RATING
+1                 0.1981044
+2                 0.1586498
+3                 0.1957724
+
