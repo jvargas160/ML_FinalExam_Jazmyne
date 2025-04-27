@@ -7,7 +7,7 @@ Course: Machine Learning (Similarity Methods, Ensemble Methods, Linear Regressio
 
 ## About
 
-This repository contains my solutions for **Part II (R coding problems)** of the Machine Learning Exam 2.  
+This repository contains my solutions for **Part II (R coding problems)** of my final exam for Machine Learning.  
 The problems involve tasks such as:
 
 - Building Random Forest models
@@ -17,7 +17,7 @@ The problems involve tasks such as:
 - Cleaning a Credit Score dataset
 - Performing Unsupervised Learning (Hierarchical Clustering)
 
-The goal was to explore different Machine Learning techniques on a **Credit Score dataset** with over 75,000 entries.
+The goal was to explore different Machine Learning techniques on a **Credit Score dataset** with over 75,000 entries obtained from https://www.kaggle.com/datasets/parisrohan/credit-score-classification 
 
 ---
 
@@ -26,8 +26,6 @@ The goal was to explore different Machine Learning techniques on a **Credit Scor
 - `exam2.R`:  
   Fully commented R script with solutions to all coding parts (Problem 4b - 4g and Extra Credit).
   
-- (Optional) `Machine Learning E2 s24.pdf`:  
-  The original exam prompt and instructions.
 
 ---
 
